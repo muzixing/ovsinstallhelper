@@ -20,3 +20,4 @@ Contributor
 ===========
 
 - [muzixing](https://github.com/muzixing)
+- [Kimi Yang](https://github.com/Shouren)
